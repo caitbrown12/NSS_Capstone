@@ -7,8 +7,6 @@ Capstone project - Nashville Software School Data Analytics cohort DA6.
 * [Challenges](#header)
 * [Conclusions](#header)
 * [Use Cases](#header)
-    * Sales Professionals
-    * Sales Operations
 * [Credits](#header)
 
 ## Motivation
